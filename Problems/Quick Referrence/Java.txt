@@ -1,0 +1,8 @@
+--------------Declaring and using HashMap in Java 
+import java.util.HashMap;
+HashMap<Integer, Integer> map = new HashMap<>();
+map.get(target-nums[index]);
+map.containsKey(target-nums[index]);
+map.put(nums[index],index);
+System.out.println("Size of map is:- "+ map.size());
+System.out.println(map);
